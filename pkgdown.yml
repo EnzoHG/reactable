@@ -1,0 +1,19 @@
+pandoc: '2.2'
+pkgdown: 1.5.1
+pkgdown_sha: ~
+articles:
+  100k-rows: 100k-rows.html
+  conditional-styling: conditional-styling.html
+  cookbook: cookbook/cookbook.html
+  cran-packages: cran-packages/cran-packages.html
+  custom-rendering: custom-rendering.html
+  examples: examples.html
+  internationalization: internationalization.html
+  nba-box-score: nba-box-score/nba-box-score.html
+  shiny-demo: shiny-demo.html
+  sticky-columns-selection: sticky-columns-selection.html
+  sticky-columns: sticky-columns.html
+  twitter-followers: twitter-followers/twitter-followers.html
+  womens-world-cup: womens-world-cup/womens-world-cup.html
+last_built: 2020-04-11T20:03Z
+
